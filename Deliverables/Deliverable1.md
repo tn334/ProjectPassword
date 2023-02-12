@@ -1,4 +1,4 @@
-  
+
 Levi's Interviews
 Interview 1:
   - Who was interviewed and who participated in the interview
@@ -41,3 +41,37 @@ Interview 2:
   - Assessment
     Nice to have
   
+  Taylor’s Interviews:
+	Interview 1:
+ - Who was interviewed and who participated in the interview:
+ Shawna Nielsen Interviewed by Taylor Nielsen
+ - When: Friday 9:30 Am 2/10/2023
+ - Customer segment
+ I choose to interview this customer because they represent someone who has very limited knowledge around technology. They use technology every day but severely struggle to manage most aspects of organization and navigation when it comes to electronics and accounts. 
+ 
+ - Key insights from the interview:
+ Interviewee has very little understanding surrounding password set ups and management. Selects the hardest password suggested by apple products but has not set up password management across devices and can not replicate the password. Must use dedicated device associated with setting up the password. Interviewee trusts finger print log in and understands that our system would also use a type of biometric evaluation. Thinks it would be much easier to use than typical password log in systems.
+ 
+ Participant did not fully understand question about account password requirements. 
+ 
+ - Representative quotes:
+ "I just choose the hardest password but then I can't even find half the keys it uses to replicate it. I can only get into my accounts on the ipad."
+ 
+ - Assessment: Must have / Nice to have / Don’t care (how the interviewee sees the solution)
+ Nice to have
+
+	Interview 2:
+ - Who was interviewed and who participated in the interview:
+ Ryder Desalvo, Forestry Student, interviewed by Taylor Nielsen
+ - When: Thursday 5:00 pm 2/9/2023
+ - Customer segment:
+ I chose this interviewee because they are someone that is very concerned with account security but is not heavily involved with technology.
+ - Key insights from the interview
+ Interviewee does participate in finger print and facial recognition log in methods but does not trust their security levels because of stories about people using their metrics without consent when asleep. Thinks that because of the need for awareness and active participation, this would have a higher level of security. 
+ Participant has a system for creating passwords but does not use a password manager. Participant has a base password with derivatives/variations from that password used for different accounts. 
+ - Representative quotes
+ "Thats an interesting concept, I'd be interested in the consistency of it. That sounds like the computer noticing my typeing as handwriting. My immediate concern would be the consistency."
+ - Assessment: Must have / Nice to have / Don’t care (how the interviewee sees the solution)
+ Nice to have
+
+=======
