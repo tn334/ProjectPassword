@@ -207,4 +207,47 @@ TypeLock offers a more convenient and secure way to log into your online account
 - Consumers who may have difficulty remembering multiple passwords
 - Computer and smartphone users looking for an innovative solution to simplify the login process
 
+Brock's Interviews:
+
+Interview 1:
+
+ - Who was interviewed and who participated in the interview:
+Tanner McMillan interviewed by Brock Heinz
+
+ - When:
+February 12, 2023
+
+ - Customer segment:
+I chose this interviewee because they were accessable to me and are an avid tech user with insightful opinions.
+
+ - Key insights from the interview:
+Interviewee is ambivalent to the product as a security measure, but sees use in a passphrase that doesn't need to be remembered.
+Interviewee doesn't consider themselves a consistent typist, but feels there is an exception for phrases typed with repetition.
+
+ - Representative quotes:
+"The ease of use seems like it would be a byproduct of the fact that nobody can just copy the style like a regular password."
+
+ - Assessment: Must have / Nice to have / Don’t care (how the interviewee sees the solution):
+Nice to have
+
+Interview 2:
+
+ - Who was interviewed and who participated in the interview:
+Greg Heinz interviewed by Brock Heinz
+
+ - When:
+February 12, 2023
+
+ - Customer segment:
+I chose this interviewee because they are an industry-employed engineer, and have experience with security concerns in large companies.
+
+ - Key insights from the interview:
+Interviewee is somewhat skeptical as to the accuracy of typing style as proof of identity (particularly when handled outside a professional software engineering team), but says that the tech could be useful if someone got it to work as intended.
+
+ - Representative quotes:
+"Biometrics are useful because it's easily accessible, and you don't have to go through the effort of changing such-and-such passwords on a routine basis. That's not the case with string-based keys, because you have to constantly keep things fresh to make sure the company doesn't lose a lot of important stuff."
+
+ - Assessment: Must have / Nice to have / Don’t care (how the interviewee sees the solution):
+Nice to have
+
 =======
