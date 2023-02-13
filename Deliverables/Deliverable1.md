@@ -196,59 +196,64 @@ TypeLock is a free and convenient application designed to help users securely ac
 
 ### Interview 9
 
-**Interveiwer:** Brock Heinz
-**Interviewee:** Tanner McMillan
+**Interviewer:** Brock Heinz\
+**Interviewee:** Tanner McMillan\
 **When:** 02/12/23
- 
 
-**Customer segment:** I chose this interviewee because they were accessable to me and are an avid tech user with insightful opinions.
+**Customer segment:** I chose this interviewee because they were accessible to me and are an avid tech user with insightful opinions.
 
 **Key insights:**
+
 - Interviewee is ambivalent to the product as a security measure, but sees use in a passphrase that doesn't need to be remembered.
 - Interviewee doesn't consider themselves a consistent typist, but feels there is an exception for phrases typed with repetition.
 
 **Representative quotes:**
+
 - "The ease of use seems like it would be a byproduct of the fact that nobody can just copy the style like a regular password."
 
-**Assessment:** 
-- Nice to have
+**Assessment:**
 
-### Interview 10:
+- Ease of use and integrate into daily workflow (Nice to have)
 
-**Interveiwer:** Brock Heinz
-**Interviewee:** Greg Heinz
+### Interview 10
+
+**Interviewer:** Brock Heinz\
+**Interviewee:** Greg Heinz\
 **When:** 02/12/23
-
 
 **Customer segment:** I chose this interviewee because they are an industry-employed engineer, and have experience with security concerns in large companies.
 
-**Key insights from the interview:**
--Interviewee is somewhat skeptical as to the accuracy of typing style as proof of identity (particularly when handled outside a professional software engineering team), but says that the tech could be useful if someone got it to work as intended.
+**Key insights:**
+
+- Interviewee is somewhat skeptical as to the accuracy of typing style as proof of identity (particularly when handled outside a professional software engineering team), but says that the tech could be useful if someone got it to work as intended.
 
 **Representative quotes:**
--"Biometrics are useful because it's easily accessible, and you don't have to go through the effort of changing such-and-such passwords on a routine basis. That's not the case with string-based keys, because you have to constantly keep things fresh to make sure the company doesn't lose a lot of important stuff."
 
-**Assessment:** 
-- Nice to have
+- "Biometrics are useful because it's easily accessible, and you don't have to go through the effort of changing such-and-such passwords on a routine basis. That's not the case with string-based keys, because you have to constantly keep things fresh to make sure the company doesn't lose a lot of important stuff."
+
+**Assessment:**
+
+- Method to estimate effectiveness of authentication (Nice to have)
 
 ### Interview 11
 
-**Interveiwer:** Gus Siegel
-**Interviewee:** Ryan Smith
+**Interviewer:** Gus Siegel\
+**Interviewee:** Ryan Smith\
 **When:** 02/12/23
- 
 
-**Customer segment:** I chose this interveiwee because I trust them to tell me and we have worked together on similar projects during hack-a-thons
+**Customer segment:** I chose this interviewee because I trust them to tell me and we have worked together on similar projects during hack-a-thons.
 
 **Key insights:**
-- Interviewee has used similar products in the past and has not had issue with them. 
+
+- Interviewee has used similar products in the past and has not had issue with them.
 
 **Representative quotes:**
+
 - "Anything that helps me not have to have 200 passwords is good in my books."
 
-**Assessment:** 
-- Nice to have
+**Assessment:**
 
+- Ability to not have to remember passwords (Nice to have)
 
 ## 4. Final value proposition and consumer segments
 
@@ -262,5 +267,3 @@ TypeLock offers a more convenient and secure way to log into your online account
 - Privacy-conscious consumers concerned about security
 - Consumers who may have difficulty remembering multiple passwords
 - Computer and smartphone users looking for an innovative solution to simplify the login process
-
-
