@@ -196,7 +196,7 @@ TypeLock is a free and convenient application designed to help users securely ac
 
 ### Interview 9
 
-**Interveiwer:** Brock Heinz/
+**Interviewer:** Brock Heinz/
 **Interviewee:** Tanner McMillan/
 **When:** 02/12/23
 
@@ -217,7 +217,7 @@ TypeLock is a free and convenient application designed to help users securely ac
 
 ### Interview 10
 
-**Interveiwer:** Brock Heinz/
+**Interviewer:** Brock Heinz/
 **Interviewee:** Greg Heinz/
 **When:** 02/12/23
 
@@ -237,7 +237,7 @@ TypeLock is a free and convenient application designed to help users securely ac
 
 ### Interview 11
 
-**Interveiwer:** Gus Siegel/
+**Interviewer:** Gus Siegel/
 **Interviewee:** Ryan Smith/
 **When:** 02/12/23
 
