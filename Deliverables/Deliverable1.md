@@ -217,8 +217,8 @@ TypeLock is a free and convenient application designed to help users securely ac
 
 ### Interview 10
 
-**Interviewer:** Brock Heinz/
-**Interviewee:** Greg Heinz/
+**Interviewer:** Brock Heinz\
+**Interviewee:** Greg Heinz\
 **When:** 02/12/23
 
 **Customer segment:** I chose this interviewee because they are an industry-employed engineer, and have experience with security concerns in large companies.
@@ -228,7 +228,7 @@ TypeLock is a free and convenient application designed to help users securely ac
 - Interviewee is somewhat skeptical as to the accuracy of typing style as proof of identity (particularly when handled outside a professional software engineering team), but says that the tech could be useful if someone got it to work as intended.
 
 **Representative quotes:**
-=======
+
 **Key insights from the interview:**
 - Interviewee is somewhat skeptical as to the accuracy of typing style as proof of identity (particularly when handled outside a professional software engineering team), but says that the tech could be useful if someone got it to work as intended.
 
@@ -243,8 +243,8 @@ TypeLock is a free and convenient application designed to help users securely ac
 
 ### Interview 11
 
-**Interviewer:** Gus Siegel/
-**Interviewee:** Ryan Smith/
+**Interviewer:** Gus Siegel\
+**Interviewee:** Ryan Smith\
 **When:** 02/12/23
 
 **Customer segment:** I chose this interviewee because I trust them to tell me and we have worked together on similar projects during hack-a-thons.
